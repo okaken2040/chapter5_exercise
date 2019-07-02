@@ -1,3 +1,33 @@
 @charset "UTF-8";
 
 
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+
+
+.spring {
+	background-image: url(img/box1.jpg);
+}
+
+.summer {
+	background-image: url(img/box2.jpg);
+}
+
+.fall {
+	background-image: url(img/box3.jpg);
+}
+
+.winter {
+	background-image: url(img/box4.jpg);
+}
+
+.content {
+	height: 200px;
+	background-position: center;
+	background-size: cover;
+}
+
